@@ -1,0 +1,7 @@
+,suppression_eff_mean,suppression_eff_mean,suppression_eff_mean,suppression_eff_mean,suppression_eff_std,suppression_eff_std,suppression_eff_std,suppression_eff_std
+interv_type,constant,no_interv,periodic,pulse,constant,no_interv,periodic,pulse
+gamma1,,,,,,,,
+0.4,0.772,0.733,0.7356,0.7612,0.0004,0.0003,0.0005,0.0005
+0.5,0.7738,0.7334,0.7356,0.7608,0.0001,0.0009,0.0009,0.0003
+0.6,0.7744,0.7338,0.7354,0.7605,0.0003,0.0007,0.0006,0.0003
+0.7,0.7752,0.7339,0.7362,0.7613,0.0004,0.0001,0.0004,0.0008

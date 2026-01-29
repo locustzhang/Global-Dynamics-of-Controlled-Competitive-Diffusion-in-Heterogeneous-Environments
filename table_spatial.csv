@@ -1,0 +1,5 @@
+p_type,suppression_eff_mean,corr_Pv_mean,P_mean,convergence_time_mean
+homo,0.775,0.0,0.8,2.0
+sharp_gradient,0.8466,0.3629,0.6,2.0
+multiple_patches,0.8813,0.1577,0.56,2.0
+random_field,0.8271,-0.0376,0.6991,2.0
